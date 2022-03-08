@@ -1,0 +1,6 @@
+[user]
+	name = moorec25
+	email = moorec25@mcmaster.ca
+[core]
+	editor = vim
+	autocrlf = input
